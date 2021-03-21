@@ -23,18 +23,18 @@ if __name__ == '__main__':
     """
     時流量 demo
     """
-    filePath = os.path.join(os.getcwd(), 'data', '九河局時流量')
-    fileName = '202100024_時流量.csv'
-    outputName = '九河局時流量New.csv'
-    timestep = 'hour'
+    # filePath = os.path.join(os.getcwd(), 'data', '九河局時流量')
+    # fileName = '202100024_時流量.csv'
+    # outputName = '九河局時流量New.csv'
+    # timestep = 'hour'
     
     """
     日流量 demo
     """
-    filePath = os.path.join(os.getcwd(), 'data', '北水局日流量')
-    fileName = '北水局流量.csv'
-    outputName = '北水局流量New.csv'
-    timestep = 'day'
+    # filePath = os.path.join(os.getcwd(), 'data', '北水局日流量')
+    # fileName = '北水局流量.csv'
+    # outputName = '北水局流量New.csv'
+    # timestep = 'day'
 
     # run function
     main(
